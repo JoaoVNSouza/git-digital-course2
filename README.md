@@ -7,3 +7,5 @@
 # Testar a funcionalidade de git log e git restore.
 
 # Git pull -> Alterando no servidor.
+
+# Three testing.
